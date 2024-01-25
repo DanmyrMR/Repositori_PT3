@@ -5,6 +5,8 @@ public class Git_Main {
 		// TODO Auto-generated method stub
 
 		System.out.println("1a modificació");
+
+		System.out.println("1a modificació GitHub");
 		
 	}
 
